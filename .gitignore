@@ -6,4 +6,4 @@ venv/
 .venv/
 *.pkl
 data/vgsales.csv
-
+data/cleaned_vgsales.csv
