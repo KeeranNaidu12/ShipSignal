@@ -115,7 +115,7 @@ def clean():
     # Save cleaned dataset
     print("\nSaving cleaned dataset...")
     df.to_csv('data/cleaned_vgsales.csv', index=False)
-    print("✓ Cleaning complete — saved to data/cleaned_vgsales.csv")
+    print("Cleaning complete — saved to data/cleaned_vgsales.csv")
 
 if __name__ == "__main__":
     clean()
